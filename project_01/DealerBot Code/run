@@ -1,3 +1,0 @@
-#!/bin/bash
-
-sudo PYTHONPATH=/var/lib/cloud9/ENGI301Fall2022/python/stepper_motor:/var/lib/cloud9/ENGI301Fall2022/python/dc_motor:/var/lib/cloud9/ENGI301Fall2022/python/light_sensor:/var/lib/cloud9/ENGI301Fall2022/python/hall_effect_sensor:/var/lib/cloud9/ENGI301Fall2022/python/ht16k33 python3 dealerbot.py
